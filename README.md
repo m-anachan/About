@@ -4,7 +4,9 @@ Main languages which I am using are: Java, CPP and Python. I am most interested 
 
 
 I have as well my own youtube channel: m.ananech
-Instagram: m.ananicz
+
+Instagram: instagram.com/m.ananicz
+
 Where I am trying to show my personality.
 
 Quantum computing is the future!
