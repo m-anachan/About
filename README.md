@@ -2,7 +2,7 @@ I am introducing you to my beautiful profile on Github, which was created for ta
 open source projects.
 Main languages which I am using are: Java, CPP and Python. I am most interested in web development, mainly backend. I could write Apps in some popular frameworks, for example Spring, Hibernate.
 
-Other socials: linktr.ee/Celek22333
+I have as well other socials!: linktr.ee/Celek22333
 
 Where I am trying to show my personality.
 
