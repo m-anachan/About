@@ -4,7 +4,8 @@ Main languages which I am using are: Python, CPP and Java. I am most interested 
 
 Be sure to see my Instagram: instagram.com/m.ananicz
 
-Quantum computing probably better for computations and will be used in business, this is the subject in which I am interested in.
+Quantum computing will be probably much better for computations than conventional computing and will be used in business, this is the subject in which I am interested in.
+
 Artificial Intelligence is the future!
 
 Check out my own website! https://marcelananicz.wixsite.com/m-ananicz
