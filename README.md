@@ -1,11 +1,10 @@
 I am introducing you to my beautiful profile on Github, which was created for taking a part in some
 open source projects.
-Main languages which I am using are: Java, CPP and Python. I am most interested in web development, mainly backend. I could write Apps in some popular frameworks, for example Spring, Hibernate.
+Main languages which I am using are: Python, CPP and Java. I am most interested in software development, mainly artificial intelligence. I write code using some popular libraries, for example Pytorch, Tensorflow.
 
-I have as well other socials!: linktr.ee/Celek22333
+I have as well other Instagram: instagram.com/m.ananicz
 
-Where I am trying to show my personality.
+Quantum computing probably better for computations and will be used in business, this is the subject in which I am interested in.
+Artificial Intelligence is the future!
 
-Quantum computing is the future!
-
-I would like to create my own website which you should be ready for!
+Check out my own website! https://marcelananicz.wixsite.com/m-ananicz
