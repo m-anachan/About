@@ -1,4 +1,4 @@
-I am introducing you to my beautiful profile on Github, which was created for taking a part in some
+I am introducing you to my wonderful profile on Github, which has been created due to wish for taking part in some
 open source projects.
 Main languages which I am using are: Python, CPP and Java. I am most interested in software development, mainly artificial intelligence. I write code using some popular libraries, for example Pytorch, Tensorflow.
 
